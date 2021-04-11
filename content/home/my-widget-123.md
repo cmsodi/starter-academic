@@ -1,6 +1,6 @@
 ---
 widget: HTTPS://WOWCHEMY.COM/DOCS/PAGE-BUILDER/
-widget_id: my-widget-123
+widget_id: nuova pagina
 headless: true
 weight: 1
 title: mia pagina
